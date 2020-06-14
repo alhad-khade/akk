@@ -195,6 +195,10 @@ blockquote svg.svg-inline--fa {
   width: 50%;
 }
 
+#contact a {
+  margin: 0 1rem;
+}
+
 /* COntact section */
 
 footer {
